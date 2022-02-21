@@ -5,7 +5,7 @@ Immunopeptidome Analysis of HLA-DPB1 Allelic Variants Reveals New Functional Hie
 
 DPB1 HLA sequences were downloaded from IPD-IMGT/HLA Database website (Robinson et al. 2020). Sequences of master genotypes were selected from DPB1 database. Exon 2 polymorphic sequence of DPB1 allele was determined with Ensembl EBI web application (Cantelli et al. 2022). 1178 master DPB1 sequences were retained to have a complete sequence of exon 2 containing 87 amino acids. 
 
-These were annotated with CWID 3.0 HLA DPB1 database through their HLA IPD-IMGT/HLA identifier (Hurley et al. 2020).
+These sequences were annotated with CIWD 3.0 HLA DPB1 database through their HLA IPD-IMGT/HLA identifier (Hurley et al. 2020).
 C : common, 
 WD : well documented, 
 I : intermediary
