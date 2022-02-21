@@ -1,7 +1,7 @@
 # DPB1_Grantham
 Software to display Grantham distance between DPB1 alleles (Exon 2)
 
-Immunopeptidome Analysis of HLA-DPB1 Allelic Variants Reveals New Functional Hierarchies and HLA-DP alleles can be classified into functional T cell epitope (TCE) groups (van Balen et al. 2020).Nonpermissive HLA-DPB1 mismatch increases mortality after myeloablative unrelated allogeneic hematopoietic cell transplantation (Pidala et al. 2014)
+Immunopeptidome Analysis of HLA-DPB1 Allelic Variants Reveals New Functional Hierarchies and HLA-DP alleles can be classified into functional T cell epitope (TCE) groups (van Balen et al. 2020). Nonpermissive HLA-DPB1 mismatch increases mortality after myeloablative unrelated allogeneic hematopoietic cell transplantation (Pidala et al. 2014).
 
 DPB1 HLA sequences were downloaded from IPD-IMGT/HLA Database website (Robinson et al. 2020). Sequences of master genotypes were selected from DPB1 database. Exon 2 polymorphic sequence of DPB1 allele was determined with Ensembl EBI web application (Cantelli et al. 2022). 1178 master DPB1 sequences were retained to have a complete sequence of exon 2 containing 87 amino acids. 
 
