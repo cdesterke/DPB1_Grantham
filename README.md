@@ -1,6 +1,7 @@
 # DPB1_Grantham
 Software to display Grantham distance between DPB1 alleles (Exon 2)
 
+Immunopeptidome Analysis of HLA-DPB1 Allelic Variants Reveals New Functional Hierarchies and HLA-DP alleles can be classified into functional T cell epitope (TCE) groups (van Balen et al. 2020).
 
 DPB1 HLA sequences were downloaded from IPD-IMGT/HLA Database website (Robinson et al. 2020). Sequences of master genotypes were selected from DPB1 database. Exon 2 polymorphic sequence of DPB1 allele was determined with Ensembl EBI web application (Cantelli et al. 2022). 1178 master DPB1 sequences were retained to have a complete sequence of exon 2 containing 87 amino acids. 
 
@@ -39,6 +40,7 @@ Download "dpb1rep.csv.zip" (database) and "dpb1.sh" (bash software) and put them
 
 
 ## References 
+> Balen, Peter van, Michel G. D. Kester, Wendy de Klerk, Pietro Crivello, Esteban Arrieta-Bolaños, Arnoud H. de Ru, Inge Jedema, et al. 2020. « Immunopeptidome Analysis of HLA-DPB1 Allelic Variants Reveals New Functional Hierarchies ». Journal of Immunology (Baltimore, Md.: 1950) 204 (12): 3273‑82. https://doi.org/10.4049/jimmunol.2000192.
 
 > Cantelli, Gaia, Alex Bateman, Cath Brooksbank, Anton I. Petrov, Rahuman S. Malik-Sheriff, Michele Ide-Smith, Henning Hermjakob, et al. 2022. « The European Bioinformatics Institute (EMBL-EBI) in 2021 ». Nucleic Acids Research 50 (D1): D11‑19. https://doi.org/10.1093/nar/gkab1127.
 
