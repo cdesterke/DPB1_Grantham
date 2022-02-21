@@ -30,8 +30,8 @@ Download "dpb1rep.csv.zip" (database) and "dpb1.sh" (bash software) and put them
 ### allow permission to the bash 
 > chmod 777 dpb1.sh
 
-### run the program with PDB1 allele combination in this format
-> 
+### run the program with PDB1 allele combination in this format (classcal star * was replaced by ":" for command compatibility and the two alleles were link by "_")
+> ./dpb1.sh DPB1:01:01_DPB1:09:01
 
 ![screen](https://github.com/cdesterke/DPB1_Grantham/blob/main/screen.jpg)
 
