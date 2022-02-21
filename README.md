@@ -18,8 +18,11 @@ If subset of sequences having an identifier in CWID 3.0 database is retained, so
 
 ![barplot](https://github.com/cdesterke/DPB1_Grantham/blob/main/barplot.png)
 
-Retained database of 1178 DPB1 exon 2 sequences were processed to pairwise Grantham Distances calculation (Grantham 1974) with GranthamDist perl application  (Pierini et Lenz 2018). 693.253 pairwise Grantham distances were computed and export in CSV file available in zip format : 
+Retained database of 1178 DPB1 exon 2 sequences were processed to pairwise Grantham Distances calculation (Grantham 1974) with GranthamDist perl application  (Pierini et Lenz 2018). 693.253 pairwise Grantham distances were computed and export in CSV file available in zip format : dpb1rep.csv.zip
 
+
+## software to display DPB1 Grantham distance
+Download "dpb1rep.csv.zip" (database) and  (bash software) 
 
 ![screen](https://github.com/cdesterke/DPB1_Grantham/blob/main/screen.jpg)
 
