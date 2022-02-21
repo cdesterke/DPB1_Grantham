@@ -1,7 +1,7 @@
 # DPB1_Grantham
 Software to display Grantham distance between DPB1 alleles (Exon 2)
 
-Immunopeptidome Analysis of HLA-DPB1 Allelic Variants Reveals New Functional Hierarchies and HLA-DP alleles can be classified into functional T cell epitope (TCE) groups (van Balen et al. 2020).
+Immunopeptidome Analysis of HLA-DPB1 Allelic Variants Reveals New Functional Hierarchies and HLA-DP alleles can be classified into functional T cell epitope (TCE) groups (van Balen et al. 2020).Nonpermissive HLA-DPB1 mismatch increases mortality after myeloablative unrelated allogeneic hematopoietic cell transplantation (Pidala et al. 2014)
 
 DPB1 HLA sequences were downloaded from IPD-IMGT/HLA Database website (Robinson et al. 2020). Sequences of master genotypes were selected from DPB1 database. Exon 2 polymorphic sequence of DPB1 allele was determined with Ensembl EBI web application (Cantelli et al. 2022). 1178 master DPB1 sequences were retained to have a complete sequence of exon 2 containing 87 amino acids. 
 
@@ -47,6 +47,8 @@ Download "dpb1rep.csv.zip" (database) and "dpb1.sh" (bash software) and put them
 > Grantham, R. 1974. « Amino Acid Difference Formula to Help Explain Protein Evolution ». Science (New York, N.Y.) 185 (4154): 862‑64. https://doi.org/10.1126/science.185.4154.862.
 
 > Hurley, Carolyn K., Jane Kempenich, Kim Wadsworth, Jürgen Sauter, Jan A. Hofmann, Daniel Schefzyk, Alexander H. Schmidt, et al. 2020. « Common, Intermediate and Well-Documented HLA Alleles in World Populations: CIWD Version 3.0.0 ». HLA 95 (6): 516‑31. https://doi.org/10.1111/tan.13811.
+
+> Pidala, Joseph, Stephanie J. Lee, Kwang Woo Ahn, Stephen Spellman, Hai-Lin Wang, Mahmoud Aljurf, Medhat Askar, et al. 2014. « Nonpermissive HLA-DPB1 Mismatch Increases Mortality after Myeloablative Unrelated Allogeneic Hematopoietic Cell Transplantation ». Blood 124 (16): 2596‑2606. https://doi.org/10.1182/blood-2014-05-576041.
 
 > Pierini, Federica, et Tobias L. Lenz. 2018. « Divergent Allele Advantage at Human MHC Genes: Signatures of Past and Ongoing Selection ». Molecular Biology and Evolution 35 (9): 2145‑58. https://doi.org/10.1093/molbev/msy116.
 
