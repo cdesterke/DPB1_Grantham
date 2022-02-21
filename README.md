@@ -1,5 +1,5 @@
 # DPB1_Grantham
-software to display Grantham distance between DPB1 alleles (Exon 2)
+Software to display Grantham distance between DPB1 alleles (Exon 2)
 
 
 
@@ -8,4 +8,4 @@ software to display Grantham distance between DPB1 alleles (Exon 2)
 
 ![barplot](https://github.com/cdesterke/DPB1_Grantham/blob/main/barplot.png)
 
-![screen](https://github.com/cdesterke/DPB1_Grantham/blob/main/screen.png)
+![screen](https://github.com/cdesterke/DPB1_Grantham/blob/main/screen.jpg)
