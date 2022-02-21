@@ -5,8 +5,8 @@ Software to display Grantham distance between DPB1 alleles (Exon 2)
 DPB1 HLA sequences were downloaded from IPD-IMGT/HLA Database website (Robinson et al. 2020). Sequences of master genotypes were selected from DPB1 database. Exon 2 polymorphic sequence of DPB1 allele was determined with Ensembl EBI web application (Cantelli et al. 2022). 1178 master DPB1 sequences were retained to have a complete sequence of exon 2 containing 87 amino acids. 
 
 These were annotated with CWID 3.0 HLA DPB1 database through their HLA IPD-IMGT/HLA identifier (Hurley et al. 2020).
-C : common
-WD : well documented
+C : common, 
+WD : well documented, 
 I : intermediary
 
 A majority of non available information was observed after this annotation 
@@ -22,7 +22,16 @@ Retained database of 1178 DPB1 exon 2 sequences were processed to pairwise Grant
 
 
 ## software to display DPB1 Grantham distance
-Download "dpb1rep.csv.zip" (database) and  (bash software) 
+Download "dpb1rep.csv.zip" (database) and "dpb1.sh" (bash software) and put them in the same folder
+
+### unzip database
+> unizip dpb1rep.csv.zip
+
+### allow permission to the bash 
+> chmod 777 dpb1.sh
+
+### run the program with PDB1 allele combination in this format
+> 
 
 ![screen](https://github.com/cdesterke/DPB1_Grantham/blob/main/screen.jpg)
 
