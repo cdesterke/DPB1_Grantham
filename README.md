@@ -33,11 +33,17 @@ load the library
 load the database dpb1
 >data("dpb1")
 
-summary pattern of HED accross database for one selected allele
+1/ Summary pattern of HED accross the database for one selected allele
+
 ![resallele](https://github.com/cdesterke/DPB1_Grantham/blob/main/resallele.jpg)
 
+2/ Draw a striplot of HED pattern comparing two alleles
 
 ![striplot](https://github.com/cdesterke/DPB1_Grantham/blob/main/striplot.png)
+
+3/ Display Grantham HED DPB1 between two alleles
+
+![heddpb1](https://github.com/cdesterke/DPB1_Grantham/blob/main/heddpb1.jpg)
 
 ## BASH software to display DPB1 Grantham distance
 Download "dpb1rep.csv.zip" (database) and "dpb1.sh" (bash software) and put them in the same folder
