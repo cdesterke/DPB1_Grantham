@@ -25,16 +25,16 @@ Retained database of 1178 DPB1 exon 2 sequences were processed to compute pairwi
 A R-package was built under R version 4.1.0 with ggplot2 and dplyr dependencies. This package is available on this repository under code source (dpb1hed_1.1.0.tar) and binary for windows (dpb1hed_1.1.0.zip). Download and install package.
 
 Synopsis of the package
-![syno](https://github.com/cdesterke/DPB1_Grantham/blob/main/syno.png)
+![syno](https://github.com/cdesterke/DPB1_Grantham/blob/main/syno.jpg)
 
 load the library
 > library(dpb1hed)
 
 load the database dpb1
-
 >data("dpb1")
 
->
+summary pattern of HED accross database for one selected allele
+![resallele](https://github.com/cdesterke/DPB1_Grantham/blob/main/resallele.jpg)
 
 
 ![striplot](https://github.com/cdesterke/DPB1_Grantham/blob/main/striplot.png)
