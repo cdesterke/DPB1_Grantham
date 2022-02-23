@@ -22,7 +22,18 @@ If subset of sequences having an identifier in CWID 3.0 database is retained, so
 Retained database of 1178 DPB1 exon 2 sequences were processed to compute pairwise Grantham distances (Grantham 1974) with GranthamDist perl application  (Pierini et Lenz 2018). 693.253 pairwise Grantham distances were computed and export in CSV file available in zip format : dpb1rep.csv.zip
 
 ## R package dpb1hed
-A R-package was built under R version 4.1.0 with ggplot2 and dplyr dependencies. This package is available on this repository under code source (dpb1hed_1.1.0.tar) and binary for windows (dpb1hed_1.1.0.zip)
+A R-package was built under R version 4.1.0 with ggplot2 and dplyr dependencies. This package is available on this repository under code source (dpb1hed_1.1.0.tar) and binary for windows (dpb1hed_1.1.0.zip). Download and install package.
+
+> library(dpb1hed)
+
+load the database dpb1
+
+>data("dpb1")
+
+>
+
+
+![striplot](https://github.com/cdesterke/DPB1_Grantham/blob/main/stiplot.png)
 
 ## BASH software to display DPB1 Grantham distance
 Download "dpb1rep.csv.zip" (database) and "dpb1.sh" (bash software) and put them in the same folder
