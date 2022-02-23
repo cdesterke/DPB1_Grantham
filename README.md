@@ -27,6 +27,8 @@ A R-package was built under R version 4.1.0 with ggplot2 and dplyr dependencies.
 Synopsis of the package
 ![syno](https://github.com/cdesterke/DPB1_Grantham/blob/main/syno.jpg)
 
+### R package usage
+
 load the library
 > library(dpb1hed)
 
